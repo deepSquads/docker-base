@@ -1,7 +1,7 @@
 # Docker Base
 
 [![Discord](https://img.shields.io/discord/564160730845151244?label=discord&style=flat-square)](https://deepsquads.io/discord)
-[![Docker Pulls](https://img.shields.io/docker/pulls/deepsquads/base?color=f02e65&style=flat-square)](https://hub.docker.com/r/deepsquads/base)
+[![Docker Pulls](https://img.shields.io/docker/pulls/deepsquads/base?color=f02e65&style=flat-square)](https://ghcr.io/deepsquads/docker-base)
 [![Build Status](https://img.shields.io/travis/com/deepsquads/docker-base?style=flat-square)](https://travis-ci.com/deepsquads/docker-base)
 [![Twitter Account](https://img.shields.io/twitter/follow/deepsquads?color=00acee&label=twitter&style=flat-square)](https://twitter.com/deepsquads)
 [![Follow deepSquads on StackShare](https://img.shields.io/badge/follow%20on-stackshare-blue?style=flat-square)](https://stackshare.io/deepsquads)
